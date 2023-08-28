@@ -26,7 +26,7 @@ Every talk at Paralelná Polis Košice should be rooted in evidence.
 
 ### 5. Best Practices for Talks:
 
-- **Relevance to Paralelná Polis Košice**: Ensure your topic aligns with our core focuses, such as freedom, cryptocurrencies, Austrian economy, smart contracts, hackerspaces, and the sovereign individual concept.
+- **Relevance to Paralelná Polis Košice**: Ensure your topic aligns with our core focuses that are science, technology and art and values, such as freedom, cryptocurrencies, Austrian economy, smart contracts, hackerspaces, and the sovereign individual concept.
 - **Authenticity**: Your unique voice and perspective are encouraged, but always within the realm of evidence-based discourse.
 - **Avoid Polarization**: While we encourage debate and diversity of thought, it’s essential to ensure the talk doesn't alienate or offend groups or individuals.
 - **Practice Makes Perfect**: Rehearse your talk to ensure you stay within the allocated time and effectively communicate your main points.
