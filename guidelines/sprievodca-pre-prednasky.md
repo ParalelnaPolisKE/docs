@@ -1,4 +1,4 @@
-# Príručka pre návrhy prednášok v Paralelnej Polis Košice
+# Sprievodca pre návrhy prednášok v Paralelnej Polis Košice
 
 ### 1. Účel:
 Naším cieľom v Paralelnej Polis Košice je podporovať prostredie pre otvorenú diskusiu zameranú na prístupy založené na dátach, dobre preskúmané témy a robustné empirické štúdie. Aby sme udržali kvalitu našich podujatí, stanovili sme nasledujúce usmernenia pre návrhy prednášok.
